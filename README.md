@@ -1,4 +1,4 @@
-# 🤖 Math Assistant Chatbot
+# Math Assistant Chatbot
 A simple math tutor chatbot using [TinyLLaMA 1.1B Chat](https://huggingface.co/TinyLLaMA/TinyLLaMA-1.1B-Chat-v1.0), built with Hugging Face Transformers.
 
 ## 🚀 Features
