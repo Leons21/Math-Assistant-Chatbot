@@ -8,7 +8,7 @@ A simple math tutor chatbot using [TinyLLaMA 1.1B Chat](https://huggingface.co/T
 - 📦 Lightweight, runs locally using TinyLLaMA model
 
 ## 📷 Screenshot (Terminal)
-![Chatbot Terminal Screenshot]([assets/chat.png](https://github.com/Leons21/Math-Assistant-Chatbot/blob/main/assets/Chat.png))
+![Chat Screenshot](assets/Chat.png)
 
 ## 🗒️ Notes
 - Only evaluates simple math expressions like 3 * 7, 10 + 5, or 2 ^ 3 instantly before using the language model.
