@@ -9,8 +9,11 @@ A simple math tutor chatbot using [TinyLLaMA 1.1B Chat](https://huggingface.co/T
 - 🎨 Interactive GUI web app powered by Gradio for easy use in browser
 - 📦 Lightweight, runs locally using TinyLLaMA model
 
-## 📷 Screenshot (Terminal & GUI)
-![Chat Screenshot](assets/Chat.png)  
+## 📷 Screenshot
+- Terminal
+![Chat Screenshot](assets/Chat.png)
+
+ - Gui
 ![GUI Screenshot](assets/Gui.png)
 
 ## 🗒️ Notes
