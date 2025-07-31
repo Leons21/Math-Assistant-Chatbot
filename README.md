@@ -2,21 +2,21 @@
 
 A simple math tutor chatbot using [TinyLLaMA 1.1B Chat](https://huggingface.co/TinyLLaMA/TinyLLaMA-1.1B-Chat-v1.0), built with Hugging Face Transformers and Gradio.
 
-## 🚀 Features
-- ✅ Chat with an AI-powered math assistant
-- 🧠 Quiz mode for basic math practice
-- 📝 Saves chat history with timestamp to `chat_history.txt`
-- 🎨 Interactive GUI web app powered by Gradio for easy use in browser
-- 📦 Lightweight, runs locally using TinyLLaMA model
+## Features
+- Chat with an AI-powered math assistant
+- Quiz mode for basic math practice
+- Saves chat history with timestamp to `chat_history.txt`
+- Interactive GUI web app powered by Gradio for easy use in browser
+- Lightweight, runs locally using TinyLLaMA model
 
-## 📷 Screenshot
+## Screenshot
 - Terminal
 ![Chat Screenshot](assets/Chat.png)
 
  - Gui
 ![GUI Screenshot](assets/Gui.png)
 
-## 🗒️ Notes
+## Notes
 - Only evaluates simple math expressions like `3 * 7`, `10 + 5`, or `2 ^ 3` instantly before using the language model.
 - Features a web-based GUI using [Gradio](https://gradio.app/), allowing interactive chatting in your browser at `http://127.0.0.1:7860`.
 - Chat history is saved with timestamps in `chat_history.txt` file.
@@ -24,7 +24,7 @@ A simple math tutor chatbot using [TinyLLaMA 1.1B Chat](https://huggingface.co/T
 - Some functions are still experimental and may cause unexpected behavior.
 - Future improvements include better quiz handling and enhanced UI.
 
-## 💻 How to Run
+## How to Run
 1. Install dependencies:
     ```bash
     pip install -r requirements.txt
